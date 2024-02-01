@@ -43,7 +43,7 @@ const Welcome = ({ setWelcome }) => {
             >
                 <Image src='/welcome.png' />
                 <IconButton onClick={() => setWelcome(false)} icon={<CloseIcon />} variant='ghost' position='absolute' right='10px' top='10px' />
-                <Text mt='20px' fontSize='3xl' fontWeight='bold'>Welcome to <span style={{ color: '#3192E7' }}>Raindrop!</span></Text>
+                <Text mt='20px' fontSize='3xl' fontWeight='bold'>Welcome to <span style={{ color: '#3192E7' }}>FAN 🩵!</span></Text>
                 <Text px='30px' mt='10px' color='#848484' w='80%' align='center'><span style={{ color: '#0085AB' }}>Congratulations!</span> You’re so close to sharing with the world! Let’s get you on track. Become a creator
                     and start posting content.</Text>
                 <Button onClick={handleBecomeCreator} borderRadius='70px' colorScheme='brand' px='40px' my='20px'>Become a Creator</Button>

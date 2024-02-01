@@ -234,7 +234,7 @@ export default function LandingPage() {
           <Text
             sx={RainbowText}
             mb='40px'
-          >POWER TO THE PEOPLE!!</Text>
+          >VERIFIED FANS</Text>
           <Image
             src='people.png'
             mb='20px'
